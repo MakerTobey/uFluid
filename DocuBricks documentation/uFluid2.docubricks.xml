@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="docubricks.xsl"?>
+<docubricks>
+  <part id="50301520">
+    <name>Arduino Nano</name>
+    <description>Microcontroller</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction>
+      <step>
+        <description />
+        <media />
+      </step>
+    </manufacturing_instruction>
+  </part>
+  <part id="1266236100">
+    <name>Solenoid</name>
+    <description>Normally open 12V solenoid</description>
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num>Fa0520D</manufacturer_part_num>
+    <url>http://www.ebay.co.uk/itm/151550648853</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="././usdata/Solenoid.jpg" />
+    </media>
+    <manufacturing_instruction />
+  </part>
+  <part id="1733437843">
+    <name>Pressure sensor</name>
+    <description>1 PSI differential pressure sensor, 5V supply, analogue signal out.</description>
+    <supplier>RS</supplier>
+    <supplier_part_num>922-0957</supplier_part_num>
+    <manufacturer_part_num>ABPDJJT001PGAA5</manufacturer_part_num>
+    <url>http://uk.rs-online.com/web/p/differential-pressure-sensor-ics/9220957/</url>
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="././usdata/Pressure Sensor.jpg" />
+    </media>
+    <manufacturing_instruction />
+  </part>
+  <part id="1168570850">
+    <name>Transistor, 2N2222A</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="././usdata/Transistor, 2N2222A.jpg" />
+    </media>
+    <manufacturing_instruction />
+  </part>
+  <part id="1912356443">
+    <name>Resistor</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="907311266">
+    <name>Diode, 1N4004</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="229910306">
+    <name>Vial, 50ml</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media>
+      <file url="././usdata/Reservoir.jpg" />
+    </media>
+    <manufacturing_instruction />
+  </part>
+  <part id="1696296763">
+    <name>Tee Connector</name>
+    <description>1/16” Non-Barbed Equal Tee Connector, Celcon</description>
+    <supplier>Westgroup</supplier>
+    <supplier_part_num>E-F-CE-0A0A0A-U-TE</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="1025818605">
+    <name>Filter</name>
+    <description>5 micron in-line filter, 1/16” Barbed Ports, Polysulfone</description>
+    <supplier>Westgroup</supplier>
+    <supplier_part_num>E-M-PS-1A1A-U-5</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="472441904">
+    <name>Orifice Restrictors</name>
+    <description />
+    <supplier>Westgroup</supplier>
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="2048285750">
+    <name>Tubing</name>
+    <description>1/8” OD x 1/16” ID Biomedical &amp; Bioprocess Tubing</description>
+    <supplier>Westgroup</supplier>
+    <supplier_part_num>FLX66E 1-2</supplier_part_num>
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="595187614">
+    <name>Breadboard</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="1664090928">
+    <name>Drill, 3mm</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="1592985906">
+    <name>Air Compressor</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <part id="238991166">
+    <name>Power supply, 12V</name>
+    <description />
+    <supplier />
+    <supplier_part_num />
+    <manufacturer_part_num />
+    <url />
+    <material_amount />
+    <material_unit>NONE</material_unit>
+    <media />
+    <manufacturing_instruction />
+  </part>
+  <brick id="372140810">
+    <name>uFluid Controller</name>
+    <abstract>Controls flow rates of liquids through a microfluidics device</abstract>
+    <long_description>Please describe what your hardware does, why you designed it and what the most important features are.</long_description>
+    <notes>Anything else worth knowing? Inspirations and References as well as hints.</notes>
+    <license>MIT license</license>
+    <media />
+    <assembly_instruction />
+    <author id="1978260633" />
+    <function id="1584757221">
+      <description />
+      <implementation type="part" quantity="1" id="50301520" />
+      <implementation type="brick" quantity="2" id="1690875349" />
+      <implementation type="part" quantity="1" id="595187614" />
+      <implementation type="part" quantity="2" id="1733437843" />
+      <implementation type="brick" quantity="0" id="1051543972" />
+    </function>
+  </brick>
+  <brick id="1690875349">
+    <name>Solenoid Sub-Circuit</name>
+    <abstract />
+    <long_description />
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction />
+    <function id="384514190">
+      <description />
+      <implementation type="part" quantity="1" id="1266236100" />
+      <implementation type="part" quantity="1" id="1168570850" />
+      <implementation type="part" quantity="1" id="907311266" />
+      <implementation type="part" quantity="1" id="1912356443" />
+    </function>
+  </brick>
+  <brick id="1051543972">
+    <name>Reservoir</name>
+    <abstract>Used to buffer pressure and contain liquids to pump through the microfluidics device.</abstract>
+    <long_description />
+    <notes />
+    <license />
+    <media />
+    <assembly_instruction>
+      <step>
+        <description>Drill two 3mm holes in the lid.</description>
+        <media />
+      </step>
+      <step>
+        <description>Cut one end of tubing around 45 degrees.</description>
+        <media />
+      </step>
+      <step>
+        <description>Force tubing through one hole and pull until it is long enough to be near the bottom of the vial when the lid is screwed on.</description>
+        <media />
+      </step>
+      <step>
+        <description>Cut the other end of the tubing 10cm or so from the lid.</description>
+        <media />
+      </step>
+      <step>
+        <description>Insert tubing through the other hole using the same process, but only pull through the lid 1cm or so and cut the other end 10cm or so from the lid.</description>
+        <media />
+      </step>
+      <step>
+        <description>It is important that the vial screws on air tight.  If it is not, use PTFE tape to seal the threads.</description>
+        <media />
+      </step>
+    </assembly_instruction>
+    <function id="1974186170">
+      <description />
+      <implementation type="part" quantity="1" id="229910306" />
+      <implementation type="part" quantity="1" id="2048285750" />
+      <implementation type="part" quantity="1" id="1664090928" />
+    </function>
+  </brick>
+  <author id="1978260633">
+    <name>Christie Nel</name>
+    <email>contact@scaturio.co.uk</email>
+    <orcid />
+    <affiliation>Scaturio Ltd</affiliation>
+  </author>
+</docubricks>
